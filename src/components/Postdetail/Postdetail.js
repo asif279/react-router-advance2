@@ -11,7 +11,7 @@ const Postdetail = () => {
 
 
 
-    },[]);
+    },[id]);
     return (
         <div>
             <h3>het how are you:{id}</h3>
